@@ -1,16 +1,3 @@
 [
-  {
-    "id": "esempio-canzone",
-    "title": "Esempio Canzone",
-    "artist": "Artista",
-    "bpm": 140,
-    "audioUrl": "https://raw.githubusercontent.com/CarmineVarone/rythmjs/main/songs/esempio-canzone.mp3",
-    "difficulties": [
-      {
-        "diff": "Normal",
-        "mapUrl": "https://raw.githubusercontent.com/CarmineVarone/rythmjs/main/songs/esempio-canzone_Normal.json",
-        "noteCount": 180
-      }
-    ]
-  }
+
 ]
