@@ -1,0 +1,8 @@
+{
+  "name": "rhythm-game",
+  "version": "1.0.0",
+  "description": "Guitar Hero style rhythm game with built-in map editor",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "busboy": "^1.6.0" }
+}

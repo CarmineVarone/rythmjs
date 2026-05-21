@@ -1,0 +1,306 @@
+{
+  "title": "Antonio Ciuccia",
+  "artist": "Dj Scrotus",
+  "bpm": 140,
+  "difficulty": "Easy",
+  "offset": 0,
+  "notes": [
+    {
+      "time": 15468,
+      "lane": 1
+    },
+    {
+      "time": 16756,
+      "lane": 1
+    },
+    {
+      "time": 18044,
+      "lane": 1
+    },
+    {
+      "time": 19332,
+      "lane": 2
+    },
+    {
+      "time": 20183,
+      "lane": 3
+    },
+    {
+      "time": 22115,
+      "lane": 3
+    },
+    {
+      "time": 22759,
+      "lane": 1
+    },
+    {
+      "time": 24035,
+      "lane": 2
+    },
+    {
+      "time": 25542,
+      "lane": 1
+    },
+    {
+      "time": 26830,
+      "lane": 1
+    },
+    {
+      "time": 27899,
+      "lane": 2
+    },
+    {
+      "time": 29176,
+      "lane": 1
+    },
+    {
+      "time": 30464,
+      "lane": 1
+    },
+    {
+      "time": 31177,
+      "lane": 3
+    },
+    {
+      "time": 32603,
+      "lane": 3
+    },
+    {
+      "time": 33258,
+      "lane": 0
+    },
+    {
+      "time": 34592,
+      "lane": 0
+    },
+    {
+      "time": 35190,
+      "lane": 2
+    },
+    {
+      "time": 36041,
+      "lane": 2
+    },
+    {
+      "time": 37329,
+      "lane": 2
+    },
+    {
+      "time": 38594,
+      "lane": 0
+    },
+    {
+      "time": 39468,
+      "lane": 0
+    },
+    {
+      "time": 41182,
+      "lane": 1
+    },
+    {
+      "time": 42033,
+      "lane": 3
+    },
+    {
+      "time": 43321,
+      "lane": 3
+    },
+    {
+      "time": 43976,
+      "lane": 0
+    },
+    {
+      "time": 45897,
+      "lane": 3
+    },
+    {
+      "time": 47829,
+      "lane": 3
+    },
+    {
+      "time": 49968,
+      "lane": 1
+    },
+    {
+      "time": 51256,
+      "lane": 1
+    },
+    {
+      "time": 52325,
+      "lane": 2
+    },
+    {
+      "time": 54039,
+      "lane": 3
+    },
+    {
+      "time": 54683,
+      "lane": 3
+    },
+    {
+      "time": 57466,
+      "lane": 1
+    },
+    {
+      "time": 59179,
+      "lane": 2
+    },
+    {
+      "time": 60893,
+      "lane": 3
+    },
+    {
+      "time": 62606,
+      "lane": 0
+    },
+    {
+      "time": 64320,
+      "lane": 1
+    },
+    {
+      "time": 66033,
+      "lane": 2
+    },
+    {
+      "time": 67965,
+      "lane": 2
+    },
+    {
+      "time": 69472,
+      "lane": 1
+    },
+    {
+      "time": 73750,
+      "lane": 1
+    },
+    {
+      "time": 76544,
+      "lane": 0
+    },
+    {
+      "time": 78028,
+      "lane": 1
+    },
+    {
+      "time": 81466,
+      "lane": 0
+    },
+    {
+      "time": 83180,
+      "lane": 1
+    },
+    {
+      "time": 84893,
+      "lane": 2
+    },
+    {
+      "time": 86607,
+      "lane": 3
+    },
+    {
+      "time": 88332,
+      "lane": 1
+    },
+    {
+      "time": 90264,
+      "lane": 1
+    },
+    {
+      "time": 92184,
+      "lane": 2
+    },
+    {
+      "time": 94346,
+      "lane": 0
+    },
+    {
+      "time": 108054,
+      "lane": 3
+    },
+    {
+      "time": 111067,
+      "lane": 2
+    },
+    {
+      "time": 114483,
+      "lane": 3
+    },
+    {
+      "time": 117438,
+      "lane": 0
+    },
+    {
+      "time": 121866,
+      "lane": 0
+    },
+    {
+      "time": 133745,
+      "lane": 2
+    },
+    {
+      "time": 136321,
+      "lane": 2
+    },
+    {
+      "time": 138253,
+      "lane": 2
+    },
+    {
+      "time": 140185,
+      "lane": 2
+    },
+    {
+      "time": 142324,
+      "lane": 0
+    },
+    {
+      "time": 144038,
+      "lane": 1
+    },
+    {
+      "time": 145751,
+      "lane": 2
+    },
+    {
+      "time": 147465,
+      "lane": 3
+    },
+    {
+      "time": 149178,
+      "lane": 0
+    },
+    {
+      "time": 151110,
+      "lane": 0
+    },
+    {
+      "time": 153261,
+      "lane": 3
+    },
+    {
+      "time": 154330,
+      "lane": 1
+    },
+    {
+      "time": 156044,
+      "lane": 1
+    },
+    {
+      "time": 157976,
+      "lane": 1
+    },
+    {
+      "time": 159896,
+      "lane": 0
+    },
+    {
+      "time": 161184,
+      "lane": 0
+    },
+    {
+      "time": 162035,
+      "lane": 2
+    }
+  ],
+  "audioRef": "Antonio_Ciuccia.mp3"
+}
